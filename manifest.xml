@@ -1,0 +1,17 @@
+<package>
+  <description brief="ros_boot_agent">
+
+     ros_boot_agent
+
+  </description>
+  <author>Adam</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ros_boot_agent</url>
+  <depend package="rospy"/>
+  <depend package="sensor_msgs"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+
